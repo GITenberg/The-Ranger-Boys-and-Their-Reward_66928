@@ -1,0 +1,27 @@
+_repo: The-Ranger-Boys-and-Their-Reward_66928
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Labelle, Claude A.
+    alias: La Belle, Claude A.
+    gutenberg_agent_id: '31384'
+    url: http://www.gutenberg.org/2009/agents/31384
+description: ''
+gutenberg_issued: '2021-12-12'
+identifiers:
+  gutenberg: '66928'
+language: en
+pgterms:marc904: https://archive.org/details/rangerboystheirr00labe
+pgterms:marc905: 20211101123739labelle
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :A. L. Burt Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Ranger Boys and Their Reward
+url: http://www.gutenberg.org/ebooks/66928
