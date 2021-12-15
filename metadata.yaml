@@ -1,5 +1,8 @@
 _repo: The-Ranger-Boys-and-Their-Reward_66928
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66928-h/images/cover.jpg
 creator:
   author:
     agent_name: Labelle, Claude A.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '31384'
     url: http://www.gutenberg.org/2009/agents/31384
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66928#The-Ranger-Boys-and-Their-Reward
 gutenberg_issued: '2021-12-12'
 identifiers:
   gutenberg: '66928'
